@@ -2,7 +2,7 @@
 
 # Genel Bakış
 
-Bu proje, bir web uygulamasının çeşitli yönlerini yönetmek için tasarlanmış bir admin panelidir. Kullanıcı yönetimi, veri görselleştirme ve sistem izleme gibi işlevleri içerir. Panel, [teknoloji yığını, örneğin Flutter, React, vb.] kullanılarak geliştirilmiştir ve yöneticiler için duyarlı ve kullanıcı dostu bir arayüz sunar.
+Bu proje, bir web uygulamasının çeşitli yönlerini yönetmek için tasarlanmış bir admin panelidir. Kullanıcı yönetimi, veri görselleştirme ve sistem izleme gibi işlevleri içerir. Panel, html,css,js kullanılarak geliştirilmiştir ve yöneticiler için duyarlı ve kullanıcı dostu bir arayüz sunar.
 
 # Özellikler
 Kullanıcı Yönetimi: Kullanıcı rolleri, izinler ve profillerini yönetme.
